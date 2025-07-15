@@ -16,8 +16,8 @@ First, make sure to have Python 3.X or higher.
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/kizzandev/password-generator.git
-    cd password-generator
+    git clone https://github.com/kizzandev/quiz-game.git
+    cd quiz-game
     ```
 
 2. Run the script
